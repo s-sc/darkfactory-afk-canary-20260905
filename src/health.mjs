@@ -1,1 +1,1 @@
-export function health() { return { status: "broken" }; }
+export function health() { return { status: "ok" }; }
